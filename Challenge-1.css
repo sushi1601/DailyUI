@@ -1,0 +1,14 @@
+/* body css for whole page */
+    body
+    {
+	    margin:0px;
+	   
+	    background-image:url(https://i.pinimg.com/564x/0f/58/40/0f58403ef735d04f0aca2f207eb52159.jpg);
+	    color:#aabac5;
+	    font-family:Arial, Helvetica, sans-serif;
+    }
+    
+    h-tag{
+        color: blanchedalmond;
+    }
+	
